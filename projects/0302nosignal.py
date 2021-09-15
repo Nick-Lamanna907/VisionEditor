@@ -1,5 +1,6 @@
 # Let's practice using highlight to create a "no signal" screen.
-# You should add to the exisiting print statements so that there are 6 vertical bars.
+# You should add to the exisiting print statements so that 
+# there are 6 vertical bars.
 # The first 3 have been done for you!
 
 from csinsc import *

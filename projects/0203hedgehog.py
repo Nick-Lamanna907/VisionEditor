@@ -10,5 +10,7 @@ print("  o__,_||||||||||'   ")
 
 
 
-# Print the second hedgehog by copying the code above and changing the symbols in your first hedgehog so that your second hedgehog has fuzzy fur.
+# Print the second hedgehog by copying the code above 
+# and changing the symbols in your first hedgehog so that 
+# your second hedgehog has fuzzy fur.
 # Hint: You will need to change this character "|" to ":"!
