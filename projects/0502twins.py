@@ -1,4 +1,4 @@
-# Fill in the blanks so that if the user types in the age 
+# Fill in the blanks so that IF the user types in the age 
 # "14", the program will display "We might be twins!"
 
 print("Hi there!")
